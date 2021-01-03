@@ -1,0 +1,176 @@
+step: 120, loss: 0.3931, P: 0.8637, R: 0.8637, F1: 0.8637 (common: 1977.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 135, loss: 0.3164, P: 0.8663, R: 0.8663, F1: 0.8663 (common: 1983.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 150, loss: 0.3917, P: 0.8707, R: 0.8707, F1: 0.8707 (common: 1993.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 165, loss: 0.2676, P: 0.8803, R: 0.8803, F1: 0.8803 (common: 2015.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 180, loss: 0.2332, P: 0.8755, R: 0.8755, F1: 0.8755 (common: 2004.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 195, loss: 0.1895, P: 0.8764, R: 0.8764, F1: 0.8764 (common: 2006.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 210, loss: 0.2116, P: 0.8794, R: 0.8794, F1: 0.8794 (common: 2013.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 225, loss: 0.2012, P: 0.8777, R: 0.8777, F1: 0.8777 (common: 2009.0, retrieved: 2289.0, relevant: 2289.0)
+ 
+step: 1464, loss: 16.9602, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 1647, loss: 24.6650, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 1830, loss: 31.9027, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 2013, loss: 34.0492, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 2196, loss: 45.0703, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 2379, loss: 47.6473, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 2562, loss: 60.6593, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 2745, loss: 71.3048, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+step: 1647, loss: 24.5446, P: 0.8366, R: 0.8366, F1: 0.8366 (common: 4341.0, retrieved: 5189.0, relevant: 5189.0)
+ 
+pipeline, step: 1647, P: 0.2737, R: 0.5494, F1: 0.3654 (common: 2851.0, retrieved: 10416.0, relevant: 5189.0)
+ 
+step: 1664, loss: 91.8527, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1716, loss: 98.5632, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1768, loss: 108.2707, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1820, loss: 119.0914, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1872, loss: 122.9278, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1924, loss: 125.4982, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1976, loss: 136.6697, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2028, loss: 142.7938, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2080, loss: 148.7336, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2132, loss: 152.8967, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2184, loss: 156.8433, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2236, loss: 172.9316, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2288, loss: 180.7621, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2340, loss: 187.5132, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 2392, loss: 196.4386, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1680, loss: 32.4192, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1696, loss: 28.8056, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1712, loss: 35.4252, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1728, loss: 34.9932, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1744, loss: 36.8217, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1760, loss: 31.3846, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1776, loss: 39.9252, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1792, loss: 31.4208, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1808, loss: 36.3586, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1824, loss: 38.6884, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1840, loss: 37.6309, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1856, loss: 35.3984, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1872, loss: 40.4498, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1888, loss: 40.8979, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 1904, loss: 43.6726, P: 0.8373, R: 0.8373, F1: 0.8373 (common: 530.0, retrieved: 633.0, relevant: 633.0)
+ 
+step: 416, loss: 0.9453, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 468, loss: 0.9551, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 520, loss: 0.9426, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 572, loss: 0.9455, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 624, loss: 0.9498, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 676, loss: 0.9497, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 728, loss: 0.9447, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 780, loss: 0.9265, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 44484.0)
+ 
+step: 416, loss: 0.9306, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 416, loss: 0.9306, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 468, loss: 0.9521, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 520, loss: 0.9357, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 572, loss: 0.9269, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 624, loss: 0.9316, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 676, loss: 0.9367, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 728, loss: 0.9469, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 780, loss: 0.9294, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 416, loss: 29.9160, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 468, loss: 30.4222, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 520, loss: 29.7516, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 572, loss: 29.8430, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 624, loss: 29.8928, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 676, loss: 30.2115, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 728, loss: 30.5421, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 780, loss: 29.3210, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 468, loss: 30.1320, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 520, loss: 29.7778, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 572, loss: 29.4408, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 624, loss: 30.3646, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 676, loss: 29.9833, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 728, loss: 30.4967, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 780, loss: 29.3474, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 832, loss: 29.8730, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 884, loss: 29.7306, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 936, loss: 30.0807, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 988, loss: 29.9075, P: 0.4560, R: 0.4560, F1: 0.4560 (common: 679.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1040, loss: 30.0541, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1092, loss: 29.9966, P: 0.4594, R: 0.4594, F1: 0.4594 (common: 684.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1144, loss: 36.7626, P: 0.0846, R: 0.0846, F1: 0.0846 (common: 126.0, retrieved: 1489.0, relevant: 1489.0)
+ 
+step: 1196, loss: 52.0606, P: 0.0846, R: 0.0846, F1: 0.0846 (common: 126.0, retrieved: 1489.0, relevant: 1489.0)
+ 

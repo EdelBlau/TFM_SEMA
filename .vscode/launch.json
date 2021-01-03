@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Module",
+            "type": "python",
+            "request": "launch",
+            //"module": "absa.run_extract_span",
+            "module": "absa.run_extract_span",
+            "args": [
+                "--bert_config_file", "../BERT_ABSA/bert-base-uncased/bert_config.json",
+                //"--bert_config_file", "spanbert_hf_base/config.json",
+                "--vocab_file", "../BERT_ABSA/bert-base-uncased/vocab.txt",
+                "--output_dir", "out/extract/01",
+                "--do_train", 
+                //"--debug",
+                //"--init_checkpoint", "out/extract/01/checkpoint.pth.tar",
+                //"--train_batch_size", "32",
+                "--max_seq_length", "60",
+                "--do_predict",
+                "--train_batch_size", "32",
+                "--init_checkpoint", "../BERT_ABSA/bert-base-uncased/pytorch_model.bin",
+                // "--do_pipeline",
+                // "--extraction_file", "out/extract/01/extraction_results.pkl",
+                "--train_file", "hotel_train_2.txt",
+                //"--train_file", "hotel_train_mul_cls.csv",
+                "--predict_file",  "hotel_test_2.txt",
+                "--data_dir", "data/absa"
+            ]
+        }
+    ]
+}

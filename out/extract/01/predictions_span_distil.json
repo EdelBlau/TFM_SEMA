@@ -1,0 +1,4036 @@
+{
+    "0": {
+        "pred": [
+            "lack lustre experience",
+            "we have cancelled our booking on return"
+        ],
+        "gold": [
+            "lack lustre experience"
+        ]
+    },
+    "1": {
+        "pred": [
+            "nice common"
+        ],
+        "gold": [
+            "nice common areas"
+        ]
+    },
+    "2": {
+        "pred": [
+            "room was old"
+        ],
+        "gold": [
+            "restaurant was very crowded room was old"
+        ]
+    },
+    "3": {
+        "pred": [],
+        "gold": [
+            "quick check"
+        ]
+    },
+    "4": {
+        "pred": [
+            "him for his hospitality"
+        ],
+        "gold": [
+            "thanks to him for his hospitality"
+        ]
+    },
+    "5": {
+        "pred": [
+            "location is excellent",
+            "very good"
+        ],
+        "gold": [
+            "location is excellent",
+            "swimming pool and aqua bark are very good",
+            "room is very clean",
+            "the sea is amazing"
+        ]
+    },
+    "6": {
+        "pred": [
+            "bedroom window"
+        ],
+        "gold": [
+            "view is out of this world"
+        ]
+    },
+    "7": {
+        "pred": [
+            "service at the manor is utmost recommendable with attentive"
+        ],
+        "gold": [
+            "the service at the manor is utmost recommendable",
+            "attentive butlers trying to serve our every request"
+        ]
+    },
+    "8": {
+        "pred": [
+            "infinity pool"
+        ],
+        "gold": [
+            "infinity pool is just too nice"
+        ]
+    },
+    "9": {
+        "pred": [
+            "extremely crowded",
+            "pool - alt"
+        ],
+        "gold": [
+            "the pool - altho beautiful"
+        ]
+    },
+    "10": {
+        "pred": [],
+        "gold": [
+            "lounge at the rasa wing where high"
+        ]
+    },
+    "11": {
+        "pred": [],
+        "gold": [
+            "summer at rosewood program where hotel arranged activities"
+        ]
+    },
+    "12": {
+        "pred": [
+            "chair better",
+            "good size"
+        ],
+        "gold": [
+            "desk was a good size"
+        ]
+    },
+    "13": {
+        "pred": [
+            "looking for the heart of belfast , when things"
+        ],
+        "gold": [
+            "if your looking for the heart of belfast , when things calm down , this has to be the place to stay"
+        ]
+    },
+    "14": {
+        "pred": [
+            "staff was professional"
+        ],
+        "gold": [
+            "staff was professional"
+        ]
+    },
+    "15": {
+        "pred": [
+            "front staff",
+            "hotel with an iced glass of juice and good attitude"
+        ],
+        "gold": [
+            "good attitude of front staff"
+        ]
+    },
+    "16": {
+        "pred": [
+            "extremely helpful"
+        ],
+        "gold": [
+            "hussein at front desk as extremely helpful and accommodating"
+        ]
+    },
+    "17": {
+        "pred": [
+            "location is nice",
+            "limited for a hotel",
+            "service hardly speaks english"
+        ],
+        "gold": [
+            "location is nice",
+            "breakfast is very limited"
+        ]
+    },
+    "18": {
+        "pred": [
+            "beach sandy and beautiful"
+        ],
+        "gold": [
+            "the beach sandy and beautiful"
+        ]
+    },
+    "19": {
+        "pred": [
+            "pillows need to be replaced"
+        ],
+        "gold": [
+            "pillows need to be replaced"
+        ]
+    },
+    "20": {
+        "pred": [
+            "swimming pool"
+        ],
+        "gold": [
+            "swimming pool was fab"
+        ]
+    },
+    "21": {
+        "pred": [
+            "room service",
+            "00 to park"
+        ],
+        "gold": [
+            "room service was charged"
+        ]
+    },
+    "22": {
+        "pred": [
+            "great place",
+            "breakfast outside",
+            "lovely entry way"
+        ],
+        "gold": [
+            "lovely entry way",
+            "great place to eat"
+        ]
+    },
+    "23": {
+        "pred": [
+            "overall experience is ok"
+        ],
+        "gold": [
+            "overall experience is ok",
+            "i especially like the cocktails i had at the pool side"
+        ]
+    },
+    "24": {
+        "pred": [
+            "breakfast was great",
+            "food variety"
+        ],
+        "gold": [
+            "food variety for breakfast was great"
+        ]
+    },
+    "25": {
+        "pred": [
+            "hotel are excellent"
+        ],
+        "gold": [
+            "fit out of the hotel are excellent"
+        ]
+    },
+    "26": {
+        "pred": [
+            "extremely hard",
+            "adhering"
+        ],
+        "gold": [
+            "hotel staff worked extremely hard",
+            "visitor comfort while adhering to covid regulations"
+        ]
+    },
+    "27": {
+        "pred": [
+            "reception was great"
+        ],
+        "gold": [
+            "reception was great"
+        ]
+    },
+    "28": {
+        "pred": [
+            "amazing animation"
+        ],
+        "gold": [
+            "best hotel",
+            "very nice people good stuff nice way and very kindly the best aqua park",
+            "animation special thanks",
+            "mr sam",
+            "all animation team"
+        ]
+    },
+    "29": {
+        "pred": [
+            "very opulent"
+        ],
+        "gold": [
+            "hotel was very opulent"
+        ]
+    },
+    "30": {
+        "pred": [
+            "limited to pizza",
+            "room service"
+        ],
+        "gold": [
+            "room service is limited"
+        ]
+    },
+    "31": {
+        "pred": [
+            "superior quality",
+            "very attentive"
+        ],
+        "gold": [
+            "breakfast was of superior quality",
+            "service very attentive"
+        ]
+    },
+    "33": {
+        "pred": [
+            "lovely room",
+            "your money in comparison to other hotels"
+        ],
+        "gold": [
+            "really lovely room for your money"
+        ]
+    },
+    "34": {
+        "pred": [
+            "amazing 3 nights at sunrise garden beach hotel"
+        ],
+        "gold": [
+            "an amazing 3 nights",
+            "we were upgraded to a spacious modern and elegant family room"
+        ]
+    },
+    "35": {
+        "pred": [
+            "would really recommend this hotel",
+            "your business and solo needs"
+        ],
+        "gold": [
+            "really recommend this hotel for all your business and solo needs"
+        ]
+    },
+    "36": {
+        "pred": [
+            "no colour",
+            "child friendly"
+        ],
+        "gold": [
+            "not provided with child friendly plates"
+        ]
+    },
+    "37": {
+        "pred": [
+            "room ' s layout"
+        ],
+        "gold": [
+            "really love the room ' s layout , interior and vibe as well"
+        ]
+    },
+    "38": {
+        "pred": [
+            "location very close , beach is beautiful and beach staff"
+        ],
+        "gold": [
+            "location very close",
+            "beach is beautiful",
+            "beach staff are very helpful prices are not expensive",
+            "great vacation destination"
+        ]
+    },
+    "39": {
+        "pred": [
+            "hotel is excellent",
+            "front desk and guest relations team"
+        ],
+        "gold": [
+            "hotel is excellent",
+            "the front desk and guest relations team are very helpful , always smiling and cheerful"
+        ]
+    },
+    "40": {
+        "pred": [
+            "rooms building"
+        ],
+        "gold": [
+            "musty/moldy smell"
+        ]
+    },
+    "41": {
+        "pred": [
+            "limited menu"
+        ],
+        "gold": [
+            "limited menu and staffing"
+        ]
+    },
+    "42": {
+        "pred": [
+            "lovely hotel",
+            "well organised"
+        ],
+        "gold": [
+            "lovely hotel"
+        ]
+    },
+    "43": {
+        "pred": [
+            "pool area is lovely",
+            "lack of sun beds"
+        ],
+        "gold": [
+            "pool area is lovely",
+            "lack of sun beds"
+        ]
+    },
+    "44": {
+        "pred": [
+            "breakfast was very good",
+            "wonderful full sea"
+        ],
+        "gold": [
+            "breakfast was very good",
+            "wonderful full sea view and very comfortable"
+        ]
+    },
+    "45": {
+        "pred": [
+            "cooperative staff"
+        ],
+        "gold": [
+            "location",
+            "cooperative staff"
+        ]
+    },
+    "46": {
+        "pred": [
+            "good service"
+        ],
+        "gold": [
+            "good service"
+        ]
+    },
+    "47": {
+        "pred": [
+            "very good",
+            "yummy"
+        ],
+        "gold": [
+            "italian restaurant is very good",
+            "food is so yummy"
+        ]
+    },
+    "48": {
+        "pred": [
+            "food was amazing"
+        ],
+        "gold": [
+            "food was amazing"
+        ]
+    },
+    "49": {
+        "pred": [
+            "good service"
+        ],
+        "gold": [
+            "good service overall"
+        ]
+    },
+    "50": {
+        "pred": [
+            "no cutlery provided",
+            "room was missing crockery"
+        ],
+        "gold": [
+            "our room was missing crockery and had no cutlery provided"
+        ]
+    },
+    "51": {
+        "pred": [
+            "nice nad clean",
+            "staff was very friendly"
+        ],
+        "gold": [
+            "everything was nice nad clean",
+            "staff was very friendly and helpfull"
+        ]
+    },
+    "52": {
+        "pred": [
+            "beach is fine"
+        ],
+        "gold": [
+            "beach is fine",
+            "not the best beach"
+        ]
+    },
+    "53": {
+        "pred": [
+            "carpet was bunched up in the middle of the room"
+        ],
+        "gold": [
+            "in the middle of the room"
+        ]
+    },
+    "54": {
+        "pred": [
+            "hotel is situated in the centre"
+        ],
+        "gold": [
+            "in the centre of the city"
+        ]
+    },
+    "55": {
+        "pred": [
+            "imaginary place"
+        ],
+        "gold": [
+            "imaginary place"
+        ]
+    },
+    "56": {
+        "pred": [
+            "pool was amazing"
+        ],
+        "gold": [
+            "beach and the pool was amazing"
+        ]
+    },
+    "57": {
+        "pred": [
+            "check in process took a long time"
+        ],
+        "gold": [
+            "check in process took a long time"
+        ]
+    },
+    "58": {
+        "pred": [
+            "near to a couple of subway stations on different lines"
+        ],
+        "gold": [
+            "near to a couple of subway stations"
+        ]
+    },
+    "59": {
+        "pred": [
+            "make you feel welcome",
+            "things have changed in all hotels"
+        ],
+        "gold": [
+            "all the staff made a extra effort to make you feel welcome",
+            "the staff in the clayton galway were on top of their game"
+        ]
+    },
+    "60": {
+        "pred": [
+            "staff were quite abrupt"
+        ],
+        "gold": [
+            "reception staff were quite abrupt"
+        ]
+    },
+    "61": {
+        "pred": [
+            "great service",
+            "very nice",
+            "priced",
+            "food is overpriced"
+        ],
+        "gold": [
+            "food is overpriced"
+        ]
+    },
+    "62": {
+        "pred": [],
+        "gold": [
+            "will come again"
+        ]
+    },
+    "63": {
+        "pred": [
+            "irritating and mood spoiling to see dirty"
+        ],
+        "gold": [
+            "mood spoiling",
+            "dirty room"
+        ]
+    },
+    "64": {
+        "pred": [
+            "lack of mini bar"
+        ],
+        "gold": [
+            "lack of mini bar"
+        ]
+    },
+    "65": {
+        "pred": [
+            "staff was very friendly"
+        ],
+        "gold": [
+            "staff was very friendly and attentive , kudos"
+        ]
+    },
+    "66": {
+        "pred": [
+            "responsible in serving me"
+        ],
+        "gold": [
+            "she was always enthusiastic and responsible in serving me and my partner"
+        ]
+    },
+    "67": {
+        "pred": [
+            "no response , i had to chase"
+        ],
+        "gold": [
+            "customer service was also pretty slow"
+        ]
+    },
+    "68": {
+        "pred": [],
+        "gold": [
+            "much more dated room it didn\u2019t quite match our expectations for the price"
+        ]
+    },
+    "69": {
+        "pred": [
+            "air con very good"
+        ],
+        "gold": [
+            "air con very good"
+        ]
+    },
+    "70": {
+        "pred": [
+            "great stay in this property staff"
+        ],
+        "gold": [
+            "great stay",
+            "property staff are really nice and helpful thanks to",
+            "reception for his nice welcome"
+        ]
+    },
+    "71": {
+        "pred": [
+            "huge room"
+        ],
+        "gold": [
+            "enjoyed the bathtub",
+            "huge room"
+        ]
+    },
+    "72": {
+        "pred": [
+            "rest very helpful",
+            "otherwise , staff"
+        ],
+        "gold": [
+            "otherwise , staff and the rest very helpful and good"
+        ]
+    },
+    "73": {
+        "pred": [
+            "free parking"
+        ],
+        "gold": [
+            "free parking lot"
+        ]
+    },
+    "74": {
+        "pred": [
+            "atmosphere was pleasant"
+        ],
+        "gold": [
+            "atmosphere was pleasant"
+        ]
+    },
+    "75": {
+        "pred": [],
+        "gold": [
+            "hotel so special"
+        ]
+    },
+    "76": {
+        "pred": [
+            "cleanliness was spot on"
+        ],
+        "gold": [
+            "cleanliness was spot on"
+        ]
+    },
+    "77": {
+        "pred": [],
+        "gold": [
+            "hair in the bathtub",
+            "hair on the toilet seat",
+            "some kind of hair on the toilet seat",
+            "dust and hair on the floor"
+        ]
+    },
+    "78": {
+        "pred": [],
+        "gold": [
+            "experience are very smooth and enjoyable"
+        ]
+    },
+    "79": {
+        "pred": [
+            "welcome service worth more than the price"
+        ],
+        "gold": [
+            "service worth more than"
+        ]
+    },
+    "80": {
+        "pred": [
+            "rooms are excellent",
+            "service is great",
+            "the hospitality"
+        ],
+        "gold": [
+            "touched the hospitality",
+            "service is great",
+            "rooms are excellent for me"
+        ]
+    },
+    "81": {
+        "pred": [
+            "food was amazing"
+        ],
+        "gold": [
+            "food was amazing"
+        ]
+    },
+    "82": {
+        "pred": [
+            "great for anyone"
+        ],
+        "gold": [
+            "you can walk to the 3 arena"
+        ]
+    },
+    "83": {
+        "pred": [
+            "nice view",
+            "big room"
+        ],
+        "gold": [
+            "big room",
+            "nice view"
+        ]
+    },
+    "84": {
+        "pred": [
+            "breakfast was the big disappointment"
+        ],
+        "gold": [
+            "breakfast was the big disappointment"
+        ]
+    },
+    "85": {
+        "pred": [
+            "food was excellent"
+        ],
+        "gold": [
+            "all inclusive was top class",
+            "a great choice of wines for lunch",
+            "dinner and food was excellent , varied and fresh"
+        ]
+    },
+    "86": {
+        "pred": [
+            "fantastic sangria obviously also added up to the experience"
+        ],
+        "gold": [
+            "disappoint and fantastic sangria"
+        ]
+    },
+    "87": {
+        "pred": [
+            "swimming pool",
+            "unfriendly staff"
+        ],
+        "gold": [
+            "unfriendly staff at the swimming pool"
+        ]
+    },
+    "88": {
+        "pred": [
+            "more attractive",
+            "need to be improved animation"
+        ],
+        "gold": [
+            "need to be improved animation"
+        ]
+    },
+    "89": {
+        "pred": [
+            "there ' s a wide selection"
+        ],
+        "gold": [
+            "a wide selection of foods"
+        ]
+    },
+    "90": {
+        "pred": [
+            "trains were pretty loud"
+        ],
+        "gold": [
+            "trains were pretty loud"
+        ]
+    },
+    "91": {
+        "pred": [],
+        "gold": [
+            "parking can be a bit difficult"
+        ]
+    },
+    "92": {
+        "pred": [
+            "very pleasant",
+            "both staff"
+        ],
+        "gold": [
+            "both staff members made our afternoon feel welcomed and very pleasant"
+        ]
+    },
+    "93": {
+        "pred": [
+            "staffs were very helpful"
+        ],
+        "gold": [
+            "staffs were very helpful"
+        ]
+    },
+    "94": {
+        "pred": [
+            "completed by tiny green forest and nice tidy"
+        ],
+        "gold": [
+            "great ocean view",
+            "nice tidy building",
+            "sight that really spoiled my"
+        ]
+    },
+    "95": {
+        "pred": [
+            "will come back again"
+        ],
+        "gold": [
+            "will come back again"
+        ]
+    },
+    "96": {
+        "pred": [
+            "food , the attention"
+        ],
+        "gold": [
+            "liked everything in sunrise",
+            "with the amazing quality of the food",
+            "amazing coral"
+        ]
+    },
+    "97": {
+        "pred": [
+            "breakfast was superb"
+        ],
+        "gold": [
+            "breakfast was superb and well spaced"
+        ]
+    },
+    "98": {
+        "pred": [
+            "room was so spacious",
+            "bathroom had a bath"
+        ],
+        "gold": [
+            "room was so spacious",
+            "separate shower"
+        ]
+    },
+    "99": {
+        "pred": [],
+        "gold": [
+            "reception greeted us well",
+            "assisted us with the checkout"
+        ]
+    },
+    "100": {
+        "pred": [
+            "nice experience"
+        ],
+        "gold": [
+            "nice experience"
+        ]
+    },
+    "101": {
+        "pred": [
+            "great hotel",
+            "good location"
+        ],
+        "gold": [
+            "great hotel",
+            "very good location"
+        ]
+    },
+    "102": {
+        "pred": [
+            "will be back"
+        ],
+        "gold": [
+            "will be back"
+        ]
+    },
+    "103": {
+        "pred": [
+            "spa closed",
+            "bar , pool"
+        ],
+        "gold": [
+            "bar , pool and spa closed"
+        ]
+    },
+    "104": {
+        "pred": [
+            "view from the pool was nice"
+        ],
+        "gold": [
+            "view from the pool was nice"
+        ]
+    },
+    "105": {
+        "pred": [
+            "restaurant was amazing"
+        ],
+        "gold": [
+            "the playford restaurant was amazing with vegan options"
+        ]
+    },
+    "106": {
+        "pred": [
+            "full wet bathroom"
+        ],
+        "gold": [
+            "full wet bathroom"
+        ]
+    },
+    "107": {
+        "pred": [
+            "nice lunch"
+        ],
+        "gold": [
+            "nice lunch"
+        ]
+    },
+    "108": {
+        "pred": [
+            "lovely shower",
+            "clean and modern room"
+        ],
+        "gold": [
+            "clean and modern room",
+            "lovely shower"
+        ]
+    },
+    "109": {
+        "pred": [
+            "spa was run down and not to the standard"
+        ],
+        "gold": [
+            "spa was run down"
+        ]
+    },
+    "110": {
+        "pred": [
+            "staff amazing"
+        ],
+        "gold": [
+            "staff amazing , friendly , helpful"
+        ]
+    },
+    "111": {
+        "pred": [
+            "bath in room"
+        ],
+        "gold": [
+            "no bath in room"
+        ]
+    },
+    "112": {
+        "pred": [
+            "staff is the best anastasia , jenia , \u00f6zkan"
+        ],
+        "gold": [
+            "staff is the best anastasia",
+            "jenia",
+            "\u00f6zkan",
+            "havva",
+            "staff is so friendly , funny and hospitable"
+        ]
+    },
+    "113": {
+        "pred": [],
+        "gold": [
+            "brilliant"
+        ]
+    },
+    "114": {
+        "pred": [
+            "food was really good"
+        ],
+        "gold": [
+            "bar food was really good"
+        ]
+    },
+    "115": {
+        "pred": [
+            "sparkling mocktail was ok"
+        ],
+        "gold": [
+            "mocktail was ok"
+        ]
+    },
+    "116": {
+        "pred": [
+            "staff were incredibly friendly"
+        ],
+        "gold": [
+            "staff were incredibly friendly and helpful"
+        ]
+    },
+    "117": {
+        "pred": [
+            "overall nice",
+            "restaurant 4 out of 5 the place"
+        ],
+        "gold": [
+            "5 the place overall nice for a family"
+        ]
+    },
+    "118": {
+        "pred": [],
+        "gold": [
+            "it is so nice"
+        ]
+    },
+    "119": {
+        "pred": [
+            "highly attentive",
+            "professional in their service"
+        ],
+        "gold": [
+            "club were highly"
+        ]
+    },
+    "120": {
+        "pred": [
+            "staff were really helpful"
+        ],
+        "gold": [
+            "staff were really helpful"
+        ]
+    },
+    "121": {
+        "pred": [
+            "much you have to pay for a deposit"
+        ],
+        "gold": [
+            "much you have to pay for a deposit"
+        ]
+    },
+    "122": {
+        "pred": [
+            "will come again for sure"
+        ],
+        "gold": [
+            "will come again"
+        ]
+    },
+    "123": {
+        "pred": [
+            "extra charge"
+        ],
+        "gold": [
+            "extra charge for little dog"
+        ]
+    },
+    "124": {
+        "pred": [
+            "wow\u2026amazing\u2026"
+        ],
+        "gold": [
+            "wow\u2026amazing\u2026"
+        ]
+    },
+    "125": {
+        "pred": [
+            "very well organised"
+        ],
+        "gold": [
+            "staff were very helpful"
+        ]
+    },
+    "126": {
+        "pred": [
+            "very good",
+            "24h gym , although small"
+        ],
+        "gold": [
+            "equipment was very good"
+        ]
+    },
+    "127": {
+        "pred": [
+            "hotel is nice"
+        ],
+        "gold": [
+            "hotel is nice but nothing really surprised me"
+        ]
+    },
+    "128": {
+        "pred": [
+            "executive room"
+        ],
+        "gold": [
+            "separate bedrooms with balcony & kitchenette in kids room"
+        ]
+    },
+    "129": {
+        "pred": [
+            "older hotel"
+        ],
+        "gold": [
+            "older hotel , needed refurbishment"
+        ]
+    },
+    "130": {
+        "pred": [],
+        "gold": [
+            "it was fine"
+        ]
+    },
+    "131": {
+        "pred": [
+            "gym was good"
+        ],
+        "gold": [
+            "gym was good"
+        ]
+    },
+    "132": {
+        "pred": [
+            "extremely clean",
+            "beds and pillows"
+        ],
+        "gold": [
+            "twin bedroom which was extremely clean",
+            "comfy beds and pillows"
+        ]
+    },
+    "133": {
+        "pred": [
+            "service was great"
+        ],
+        "gold": [
+            "service was great as well"
+        ]
+    },
+    "134": {
+        "pred": [
+            "housekeeping",
+            "staffs",
+            "everyone was so nice"
+        ],
+        "gold": [
+            "everyone was so nice , from the reception , to housekeeping"
+        ]
+    },
+    "135": {
+        "pred": [
+            "great time",
+            "our stay"
+        ],
+        "gold": [
+            "had a great time",
+            "really enjoyed our stay"
+        ]
+    },
+    "136": {
+        "pred": [
+            "amazing animation",
+            "team for making my last holiday"
+        ],
+        "gold": [
+            "amazing resort really enjoyed my time there specially the beach",
+            "want to thank this amazing animation team"
+        ]
+    },
+    "137": {
+        "pred": [
+            "spa was a real highlight"
+        ],
+        "gold": [
+            "spa was a real highlight"
+        ]
+    },
+    "138": {
+        "pred": [
+            "lifts , tables"
+        ],
+        "gold": [
+            "including the lifts",
+            "breakfast is now served entirely at table"
+        ]
+    },
+    "139": {
+        "pred": [
+            "room was tidy"
+        ],
+        "gold": [
+            "room was tidy and clean"
+        ]
+    },
+    "140": {
+        "pred": [
+            "breakfast was very good"
+        ],
+        "gold": [
+            "dinner was nice",
+            "breakfast was very good"
+        ]
+    },
+    "141": {
+        "pred": [
+            "seafood theme night was amazing"
+        ],
+        "gold": [
+            "seafood theme night was amazing"
+        ]
+    },
+    "142": {
+        "pred": [
+            "great meal"
+        ],
+        "gold": [
+            "restaurant offerings were just yum",
+            "great meal"
+        ]
+    },
+    "143": {
+        "pred": [
+            "loved everything about this place"
+        ],
+        "gold": [
+            "loved everything about this place"
+        ]
+    },
+    "144": {
+        "pred": [
+            "will return soon"
+        ],
+        "gold": [
+            "will return soon"
+        ]
+    },
+    "145": {
+        "pred": [
+            "restaurant was amazing"
+        ],
+        "gold": [
+            "dinner at the turkish restaurant was amazing as well"
+        ]
+    },
+    "146": {
+        "pred": [
+            "swimming pool is nice",
+            "excellent view"
+        ],
+        "gold": [
+            "swimming pool is nice",
+            "excellent view"
+        ]
+    },
+    "147": {
+        "pred": [
+            "very clean"
+        ],
+        "gold": [
+            "the bowls , plates & cups at breakfast weren ' t very clean"
+        ]
+    },
+    "148": {
+        "pred": [
+            "extra care",
+            "staff and guest relations"
+        ],
+        "gold": [
+            "like the extra care and concern form staff and guest relations"
+        ]
+    },
+    "149": {
+        "pred": [
+            "fantastic drinks , music and entertainment"
+        ],
+        "gold": [
+            "both the spy bag bar and the beach bar are amazing and we had a great time enjoying the fantastic drinks , music and entertainment and making new friends"
+        ]
+    },
+    "150": {
+        "pred": [
+            "turquoise restaurants"
+        ],
+        "gold": [
+            "turquoise restaurants"
+        ]
+    },
+    "151": {
+        "pred": [
+            "room was very disappointing"
+        ],
+        "gold": [
+            "room was very disappointing"
+        ]
+    },
+    "152": {
+        "pred": [
+            "beautiful rooms excellent cleaning service"
+        ],
+        "gold": [
+            "great hotel friendly staff good variety of food beautiful rooms excellent cleaning service",
+            "room",
+            "reception",
+            "restaurant",
+            "beautiful gardens beach wery well organized life guards good surveillance thank you"
+        ]
+    },
+    "153": {
+        "pred": [
+            "restaurant was really good"
+        ],
+        "gold": [
+            "gamila restaurant was really good"
+        ]
+    },
+    "154": {
+        "pred": [
+            "room was a little hot"
+        ],
+        "gold": [
+            "room was a little hot"
+        ]
+    },
+    "155": {
+        "pred": [
+            "room ready",
+            "no twin bed"
+        ],
+        "gold": [
+            "room ready just",
+            "no twin bed",
+            "no bath tub"
+        ]
+    },
+    "156": {
+        "pred": [
+            "hot we did have the ac"
+        ],
+        "gold": [
+            "room was also extremely hot"
+        ]
+    },
+    "157": {
+        "pred": [
+            "will be returning"
+        ],
+        "gold": [
+            "will be returning"
+        ]
+    },
+    "158": {
+        "pred": [],
+        "gold": [
+            "15 minutes walk away from alexanderplatz"
+        ]
+    },
+    "159": {
+        "pred": [
+            "gym is amazing"
+        ],
+        "gold": [
+            "gym is amazing"
+        ]
+    },
+    "160": {
+        "pred": [
+            "very modern amenities",
+            "clean rooms"
+        ],
+        "gold": [
+            "very modern amenities",
+            "spacious and clean rooms"
+        ]
+    },
+    "161": {
+        "pred": [
+            "room cleanliness",
+            "exceeded my expectations starting with the friendly"
+        ],
+        "gold": [
+            "everything exceeded my expectations",
+            "friendly staff to room cleanliness",
+            "tasty food"
+        ]
+    },
+    "162": {
+        "pred": [
+            "awesome service",
+            "will like to specifically thank mr touseef housekeeper"
+        ],
+        "gold": [
+            "just outstanding and awesome service"
+        ]
+    },
+    "163": {
+        "pred": [
+            "novotel",
+            "great stay"
+        ],
+        "gold": [
+            "great stay"
+        ]
+    },
+    "164": {
+        "pred": [
+            "free breakfast",
+            "bedroom design , kind staff",
+            "bathroom , cute and comfy"
+        ],
+        "gold": [
+            "free breakfast",
+            "clean room and bathroom",
+            "kind staff",
+            "secure hotel"
+        ]
+    },
+    "165": {
+        "pred": [
+            "thanks for the team"
+        ],
+        "gold": [
+            "thanks for the team"
+        ]
+    },
+    "166": {
+        "pred": [
+            "shuttle to get you to the airport"
+        ],
+        "gold": [
+            "airport on time"
+        ]
+    },
+    "167": {
+        "pred": [
+            "food is great"
+        ],
+        "gold": [
+            "the food is great especially the ne seafood restaraunt on the beach we had a couple of great evenings at the restaraunt and party that followed"
+        ]
+    },
+    "168": {
+        "pred": [
+            "there was a variant"
+        ],
+        "gold": [
+            "there was a variant of food and the taste was amazing"
+        ]
+    },
+    "169": {
+        "pred": [
+            "check in very easy",
+            "all guidelines re covid adhered"
+        ],
+        "gold": [
+            "check in very easy"
+        ]
+    },
+    "170": {
+        "pred": [
+            "choices of breakfast was very very normal"
+        ],
+        "gold": [
+            "choices of breakfast was very very normal"
+        ]
+    },
+    "171": {
+        "pred": [
+            "staff is careful"
+        ],
+        "gold": [
+            "staff is careful and friendly"
+        ]
+    },
+    "172": {
+        "pred": [
+            "food was not good"
+        ],
+        "gold": [
+            "food was not good",
+            "most of the staff seemed not motivated"
+        ]
+    },
+    "173": {
+        "pred": [
+            "hotel is very clean"
+        ],
+        "gold": [
+            "hotel is very clean"
+        ]
+    },
+    "174": {
+        "pred": [
+            "room was clean",
+            "lacked amenities"
+        ],
+        "gold": [
+            "lacked amenities"
+        ]
+    },
+    "175": {
+        "pred": [
+            "the services",
+            "the stuff , the location"
+        ],
+        "gold": [
+            "the stuff",
+            "the location",
+            "the services"
+        ]
+    },
+    "176": {
+        "pred": [
+            "will definitely be back"
+        ],
+        "gold": [
+            "so clean & social distance is working 100% will definitely be back for a visit"
+        ]
+    },
+    "177": {
+        "pred": [
+            "hotel is nice"
+        ],
+        "gold": [
+            "hotel is nice and beautiful"
+        ]
+    },
+    "178": {
+        "pred": [
+            "restaurant or bars",
+            "cups and plates weren ' t clean"
+        ],
+        "gold": [
+            "plates weren ' t clean either"
+        ]
+    },
+    "179": {
+        "pred": [
+            "very uncomfortable",
+            "beds joined",
+            "they gave us two small"
+        ],
+        "gold": [
+            "they gave us two small beds"
+        ]
+    },
+    "180": {
+        "pred": [
+            "very good",
+            "lot of fruit , ice-cream"
+        ],
+        "gold": [
+            "very good food , a lot of fruit , ice-cream , drinks"
+        ]
+    },
+    "181": {
+        "pred": [
+            "shopping centre and restaurants"
+        ],
+        "gold": [
+            "handy to liffey valley shopping centre and restaurants"
+        ]
+    },
+    "182": {
+        "pred": [
+            "very kind"
+        ],
+        "gold": [
+            "resort staff is very kind , helpful and decent"
+        ]
+    },
+    "183": {
+        "pred": [
+            "plenty of sanitising stations"
+        ],
+        "gold": [
+            "plenty of sanitising stations"
+        ]
+    },
+    "184": {
+        "pred": [
+            "room had a great view"
+        ],
+        "gold": [
+            "great view",
+            "in the middle part of the building"
+        ]
+    },
+    "185": {
+        "pred": [
+            "night market not open"
+        ],
+        "gold": [
+            "night market not open"
+        ]
+    },
+    "186": {
+        "pred": [
+            "staff was very friendly and helpful"
+        ],
+        "gold": [
+            "staff was very friendly and helpful"
+        ]
+    },
+    "187": {
+        "pred": [
+            "clean environment"
+        ],
+        "gold": [
+            "clean environment"
+        ]
+    },
+    "188": {
+        "pred": [
+            "there is enough",
+            "benefit from a facelift"
+        ],
+        "gold": [
+            "satisfied overall"
+        ]
+    },
+    "189": {
+        "pred": [
+            "mexican restaurant a lot"
+        ],
+        "gold": [
+            "loved the mexican restaurant"
+        ]
+    },
+    "190": {
+        "pred": [
+            "room didn ' t have a cleaned"
+        ],
+        "gold": [
+            "1st room didn ' t have a cleaned"
+        ]
+    },
+    "191": {
+        "pred": [
+            "we love the view",
+            "decor and the service"
+        ],
+        "gold": [
+            "we love the view , the decor and the service"
+        ]
+    },
+    "192": {
+        "pred": [
+            "personally like this view",
+            "card scene of central/wanchai direction"
+        ],
+        "gold": [
+            "like this view over post-card scene of central/wanchai direction"
+        ]
+    },
+    "193": {
+        "pred": [
+            "i ' ll be staying here again"
+        ],
+        "gold": [
+            "i ' ll be staying here again"
+        ]
+    },
+    "194": {
+        "pred": [
+            "beach bar"
+        ],
+        "gold": [
+            "gamila resturant stuff"
+        ]
+    },
+    "195": {
+        "pred": [
+            "coffee/tea",
+            "tv remote wasn ' t working"
+        ],
+        "gold": [
+            "tv remote wasn ' t working",
+            "only 1 coffee/tea",
+            "no milk in it"
+        ]
+    },
+    "196": {
+        "pred": [
+            "meals for breakfast are diversified",
+            "not delicious"
+        ],
+        "gold": [
+            "except coffe"
+        ]
+    },
+    "197": {
+        "pred": [
+            "food , staff"
+        ],
+        "gold": [
+            "food",
+            "staff"
+        ]
+    },
+    "198": {
+        "pred": [
+            "wonderful service"
+        ],
+        "gold": [
+            "wonderful service"
+        ]
+    },
+    "199": {
+        "pred": [
+            "new hotel"
+        ],
+        "gold": [
+            "new hotel"
+        ]
+    },
+    "200": {
+        "pred": [
+            "staff and service"
+        ],
+        "gold": [
+            "design and layout to the landscape",
+            "staff and service"
+        ]
+    },
+    "201": {
+        "pred": [
+            "service were really great"
+        ],
+        "gold": [
+            "staff and the service were really great"
+        ]
+    },
+    "202": {
+        "pred": [
+            "made us strawberry dai"
+        ],
+        "gold": [
+            "strawberry daiquiris which were not on",
+            "such a kind gesture"
+        ]
+    },
+    "203": {
+        "pred": [
+            "grand resort"
+        ],
+        "gold": [
+            "grand resort",
+            "it was great"
+        ]
+    },
+    "204": {
+        "pred": [],
+        "gold": [
+            "she made sure we left the baraka lounge satisfied so"
+        ]
+    },
+    "205": {
+        "pred": [
+            "thank in particular"
+        ],
+        "gold": [
+            "i wanted to thank in particular the following people and their teams"
+        ]
+    },
+    "206": {
+        "pred": [
+            "rooms are artful"
+        ],
+        "gold": [
+            "the rooms are artful and modern"
+        ]
+    },
+    "207": {
+        "pred": [
+            "animation team",
+            "my kids"
+        ],
+        "gold": [
+            "animation team",
+            "best with my kids"
+        ]
+    },
+    "208": {
+        "pred": [
+            "rain shower"
+        ],
+        "gold": [
+            "not bathtub"
+        ]
+    },
+    "209": {
+        "pred": [
+            "room was clean",
+            "beds very comfortable"
+        ],
+        "gold": [
+            "room was clean",
+            "beds very comfortable"
+        ]
+    },
+    "210": {
+        "pred": [],
+        "gold": [
+            "thanks to all members of the staff",
+            "helped us during our stay"
+        ]
+    },
+    "211": {
+        "pred": [
+            "lovely and big"
+        ],
+        "gold": [
+            "it was lovely",
+            "loving the balcony"
+        ]
+    },
+    "212": {
+        "pred": [
+            "staff were very professional"
+        ],
+        "gold": [
+            "staff were very professional and very helpful"
+        ]
+    },
+    "213": {
+        "pred": [
+            "fantastic views"
+        ],
+        "gold": [
+            "gorgeous room on 9th floor",
+            "views overlooking the river"
+        ]
+    },
+    "214": {
+        "pred": [],
+        "gold": [
+            "booked room was not ready yet"
+        ]
+    },
+    "215": {
+        "pred": [
+            "breakfast spread is good"
+        ],
+        "gold": [
+            "breakfast spread is good"
+        ]
+    },
+    "216": {
+        "pred": [
+            "croissant",
+            "chocolate were good"
+        ],
+        "gold": [
+            "chocolate were good"
+        ]
+    },
+    "217": {
+        "pred": [
+            "great location",
+            "extremely clean",
+            "staff is very nice"
+        ],
+        "gold": [
+            "great location",
+            "staff is very nice",
+            "the smell in the lobby- wow"
+        ]
+    },
+    "218": {
+        "pred": [
+            "thank you",
+            "made our weekend very special"
+        ],
+        "gold": [
+            "made our weekend very special"
+        ]
+    },
+    "219": {
+        "pred": [
+            "kitchen cupboards - pots and pans were dirty"
+        ],
+        "gold": [
+            "pans were dirty"
+        ]
+    },
+    "220": {
+        "pred": [
+            "will inform the staff"
+        ],
+        "gold": [
+            "staff who took care"
+        ]
+    },
+    "221": {
+        "pred": [
+            "bed huge and comfy"
+        ],
+        "gold": [
+            "bed huge and comfy"
+        ]
+    },
+    "222": {
+        "pred": [
+            "make you feel special"
+        ],
+        "gold": [
+            "make you feel special"
+        ]
+    },
+    "223": {
+        "pred": [
+            "very interist",
+            "activity for children"
+        ],
+        "gold": [
+            "very interisting activity for children"
+        ]
+    },
+    "224": {
+        "pred": [
+            "very professional",
+            "hotel itself is nicely built"
+        ],
+        "gold": [
+            "the hotel itself is nicely built",
+            "staff are very professional"
+        ]
+    },
+    "225": {
+        "pred": [
+            "excellente and professional hospitality"
+        ],
+        "gold": [
+            "professional hospitality capable",
+            "your stay and hotel services in a great quality",
+            "comfortable and appropriate facilities"
+        ]
+    },
+    "226": {
+        "pred": [
+            "great view",
+            "all rooms"
+        ],
+        "gold": [
+            "wise clean rooms good house keeping",
+            "great view in all rooms"
+        ]
+    },
+    "227": {
+        "pred": [
+            "all were bad",
+            "professional",
+            "unprofessional"
+        ],
+        "gold": [
+            "cleaning all were bad and extremely unprofessional"
+        ]
+    },
+    "228": {
+        "pred": [
+            "room was clean"
+        ],
+        "gold": [
+            "bed was really comfortable",
+            "room was clean"
+        ]
+    },
+    "229": {
+        "pred": [
+            "staff great"
+        ],
+        "gold": [
+            "staff great"
+        ]
+    },
+    "230": {
+        "pred": [
+            "rooms beautiful and the level of clean"
+        ],
+        "gold": [
+            "rooms beautiful",
+            "level of cleanliness a credit to all the house staff",
+            "many thanks to all"
+        ]
+    },
+    "231": {
+        "pred": [],
+        "gold": [
+            "extortionate prices"
+        ]
+    },
+    "232": {
+        "pred": [
+            "staff in particular , fl"
+        ],
+        "gold": [
+            "was taken care of exceptionally by two staff in particular , flavia and marco who both went above and beyond with their exceptional customer service"
+        ]
+    },
+    "233": {
+        "pred": [
+            "very friendly",
+            "all the staff"
+        ],
+        "gold": [
+            "all the staff are very friendly",
+            "vacation unforgettable , thanks to"
+        ]
+    },
+    "234": {
+        "pred": [
+            "lovely friendly staff",
+            "reception and restaurant"
+        ],
+        "gold": [
+            "lovely friendly staff"
+        ]
+    },
+    "235": {
+        "pred": [
+            "will definitely be back"
+        ],
+        "gold": [
+            "will definitely be back next year"
+        ]
+    },
+    "236": {
+        "pred": [
+            "beautiful part of cheltenham",
+            "certainly recommend the hotel for any visitors wanting"
+        ],
+        "gold": [
+            "certainly recommend the hotel"
+        ]
+    },
+    "237": {
+        "pred": [
+            "clean upon arrival"
+        ],
+        "gold": [
+            "clean"
+        ]
+    },
+    "238": {
+        "pred": [],
+        "gold": [
+            "outstanding experience"
+        ]
+    },
+    "239": {
+        "pred": [
+            "staff are always attentive and cooperative"
+        ],
+        "gold": [
+            "fantastic value for money",
+            "staff are always attentive and cooperative"
+        ]
+    },
+    "240": {
+        "pred": [],
+        "gold": [
+            "the kids loved it"
+        ]
+    },
+    "241": {
+        "pred": [
+            "phone very good and response after phone request outstanding"
+        ],
+        "gold": [
+            "service by phone very good",
+            "phone request outstanding"
+        ]
+    },
+    "242": {
+        "pred": [
+            "location was perfect"
+        ],
+        "gold": [
+            "location was perfect"
+        ]
+    },
+    "243": {
+        "pred": [
+            "really convenient location",
+            "clean and comfortable"
+        ],
+        "gold": [
+            "really convenient location",
+            "clean and comfortable"
+        ]
+    },
+    "244": {
+        "pred": [
+            "will definitely come back"
+        ],
+        "gold": [
+            "i will definitely come back to this hotel"
+        ]
+    },
+    "245": {
+        "pred": [
+            "terrible trip"
+        ],
+        "gold": [
+            "terrible trip"
+        ]
+    },
+    "246": {
+        "pred": [
+            "will stay",
+            "friendly staff",
+            "nice rooms"
+        ],
+        "gold": [
+            "very nice rooms",
+            "friendly staff"
+        ]
+    },
+    "247": {
+        "pred": [
+            "excellent place to stay"
+        ],
+        "gold": [
+            "excellent place to stay"
+        ]
+    },
+    "248": {
+        "pred": [
+            "food quality",
+            "everything was perfect",
+            "in terms of service"
+        ],
+        "gold": [
+            "food quality , everything"
+        ]
+    },
+    "249": {
+        "pred": [
+            "so helpful",
+            "each morning"
+        ],
+        "gold": [
+            "breakfast manager was so helpful and friendly"
+        ]
+    },
+    "250": {
+        "pred": [
+            "coffee are excellent",
+            "snacks were delicious"
+        ],
+        "gold": [
+            "choices of snacks were delicious",
+            "choices of tea and coffee are excellent"
+        ]
+    },
+    "251": {
+        "pred": [],
+        "gold": [
+            "fries were cold"
+        ]
+    },
+    "252": {
+        "pred": [
+            "excellent stay"
+        ],
+        "gold": [
+            "we had an excellent stay at becker ' s chalets last week"
+        ]
+    },
+    "253": {
+        "pred": [
+            "extremely chatty"
+        ],
+        "gold": [
+            "staff were extremely chatty and friendly"
+        ]
+    },
+    "254": {
+        "pred": [
+            "good service",
+            "comfortable and clean"
+        ],
+        "gold": [
+            "comfortable and clean , good service"
+        ]
+    },
+    "255": {
+        "pred": [
+            "staff has been too"
+        ],
+        "gold": [
+            "all the staff has been too kind and helpful"
+        ]
+    },
+    "256": {
+        "pred": [
+            "best room"
+        ],
+        "gold": [
+            "the best room"
+        ]
+    },
+    "257": {
+        "pred": [
+            "made easily available"
+        ],
+        "gold": [
+            "the playford gallery is an exceptional and truely amazing place to stay offering high end quality rooms with everything made easily available upon check-in"
+        ]
+    },
+    "258": {
+        "pred": [
+            "excellent location"
+        ],
+        "gold": [
+            "it was excellent location",
+            "park just next to it"
+        ]
+    },
+    "259": {
+        "pred": [
+            "comfy room",
+            "modern , clean"
+        ],
+        "gold": [
+            "modern , clean , spacious and comfy room"
+        ]
+    },
+    "260": {
+        "pred": [
+            "beach is clean"
+        ],
+        "gold": [
+            "service is good",
+            "beach is clean"
+        ]
+    },
+    "261": {
+        "pred": [
+            "staff were friendly"
+        ],
+        "gold": [
+            "staff were friendly"
+        ]
+    },
+    "262": {
+        "pred": [
+            "restaurant staff were first class"
+        ],
+        "gold": [
+            "restaurant staff were first class"
+        ]
+    },
+    "263": {
+        "pred": [
+            "gardens and pool were lovely"
+        ],
+        "gold": [
+            "gardens and pool were lovely"
+        ]
+    },
+    "264": {
+        "pred": [],
+        "gold": [
+            "loud maintenance"
+        ]
+    },
+    "265": {
+        "pred": [
+            "location is amazing",
+            "highly recommend traders hotel"
+        ],
+        "gold": [
+            "location is amazing",
+            "5min from the grand mosque"
+        ]
+    },
+    "266": {
+        "pred": [],
+        "gold": [
+            "floor around the pool was so wet and slippery that"
+        ]
+    },
+    "267": {
+        "pred": [
+            "double bed"
+        ],
+        "gold": [
+            "average double bed and a single bed"
+        ]
+    },
+    "268": {
+        "pred": [
+            "no availability on the online booking system we were encouraged"
+        ],
+        "gold": [
+            "there was no availability on the online booking system"
+        ]
+    },
+    "269": {
+        "pred": [],
+        "gold": [
+            "equipment for guests would be good"
+        ]
+    },
+    "270": {
+        "pred": [
+            "beautiful hotel",
+            "food , clean",
+            "view with the sea is amazing"
+        ],
+        "gold": [
+            "beautiful hotel the mountains view with the sea is amazing",
+            "delicious food",
+            "clean room"
+        ]
+    },
+    "271": {
+        "pred": [
+            "tv in the room"
+        ],
+        "gold": [
+            "new remote"
+        ]
+    },
+    "272": {
+        "pred": [],
+        "gold": [
+            "the best experience"
+        ]
+    },
+    "273": {
+        "pred": [
+            "the majority of our negatives"
+        ],
+        "gold": [
+            "cracked window"
+        ]
+    },
+    "274": {
+        "pred": [
+            "good ac"
+        ],
+        "gold": [
+            "spacious family room",
+            "good ac",
+            "food tasty"
+        ]
+    },
+    "275": {
+        "pred": [
+            "good hotel",
+            "excellent service"
+        ],
+        "gold": [
+            "good hotel",
+            "the best facilities",
+            "excellent service by house keeping"
+        ]
+    },
+    "276": {
+        "pred": [
+            "safe place for kids"
+        ],
+        "gold": [
+            "a safe place for kids"
+        ]
+    },
+    "277": {
+        "pred": [
+            "ran out of pancakes"
+        ],
+        "gold": [
+            "ran out of pancakes"
+        ]
+    },
+    "278": {
+        "pred": [],
+        "gold": [
+            "suite was stunning and luxurious"
+        ]
+    },
+    "279": {
+        "pred": [
+            "staff are friendly"
+        ],
+        "gold": [
+            "staff are friendly and helpful especially",
+            "restaurant staff"
+        ]
+    },
+    "280": {
+        "pred": [
+            "great value",
+            "clean and fresh with comfy"
+        ],
+        "gold": [
+            "comfy bed great value"
+        ]
+    },
+    "281": {
+        "pred": [
+            "very helpful",
+            "one plus point was the receptionist"
+        ],
+        "gold": [
+            "one plus point was the receptionist"
+        ]
+    },
+    "282": {
+        "pred": [
+            "staff are friendly",
+            "we stayed 4 nights"
+        ],
+        "gold": [
+            "staff are friendly and helpful"
+        ]
+    },
+    "283": {
+        "pred": [
+            "best hotel"
+        ],
+        "gold": [
+            "the best hotel"
+        ]
+    },
+    "284": {
+        "pred": [],
+        "gold": [
+            "extremely unique steak",
+            "more casual setting"
+        ]
+    },
+    "285": {
+        "pred": [
+            "private parking"
+        ],
+        "gold": [
+            "no private parking"
+        ]
+    },
+    "286": {
+        "pred": [
+            "beach is clean"
+        ],
+        "gold": [
+            "beach is clean"
+        ]
+    },
+    "287": {
+        "pred": [
+            "easy place",
+            "self distance",
+            "the resort is fantastic"
+        ],
+        "gold": [
+            "the resort is fantastic and such an easy place to self distance"
+        ]
+    },
+    "288": {
+        "pred": [],
+        "gold": [
+            "complimentary water or candies upon arrival"
+        ]
+    },
+    "289": {
+        "pred": [
+            "honestly perfect"
+        ],
+        "gold": [
+            "it ' s was honestly perfect"
+        ]
+    },
+    "290": {
+        "pred": [
+            "will stay again",
+            "would recommend"
+        ],
+        "gold": [
+            "will stay again"
+        ]
+    },
+    "291": {
+        "pred": [
+            "view was spectacular"
+        ],
+        "gold": [
+            "view from my view was spectacular and there were lots of design"
+        ]
+    },
+    "292": {
+        "pred": [],
+        "gold": [
+            "we didn ' t even have to ask for help because they don ' t let guests reach that point , they are always around and very attentive and they ask us if we need help before we even think about it"
+        ]
+    },
+    "293": {
+        "pred": [
+            "all other staff"
+        ],
+        "gold": [
+            "all other staff were very helpful and welcoming",
+            "house keeping were professional",
+            "very friendly atmosphere",
+            "food and pool bar staff were v . cheerful and responsive especially"
+        ]
+    },
+    "294": {
+        "pred": [
+            "food & views"
+        ],
+        "gold": [
+            "fabulous stay",
+            "warm frendly welcome",
+            "service food",
+            "five star"
+        ]
+    },
+    "295": {
+        "pred": [
+            "rooms no matter where they are provide you with good"
+        ],
+        "gold": [
+            "provide you with good amount of privacy",
+            "not another building",
+            "beach is so special"
+        ]
+    },
+    "296": {
+        "pred": [
+            "friendliness and helpful"
+        ],
+        "gold": [
+            "friendliness and helpfulness of the staff"
+        ]
+    },
+    "297": {
+        "pred": [],
+        "gold": [
+            "fruits were not sweet at all"
+        ]
+    },
+    "298": {
+        "pred": [
+            "a cool"
+        ],
+        "gold": [
+            "not much vibe"
+        ]
+    },
+    "299": {
+        "pred": [
+            "would recommend the place"
+        ],
+        "gold": [
+            "would recommend the place to anyone visiting alexandria this summer"
+        ]
+    },
+    "300": {
+        "pred": [
+            "restaurant was unreal and the staff"
+        ],
+        "gold": [
+            "food in the restaurant was unreal",
+            "staff were excellent"
+        ]
+    },
+    "301": {
+        "pred": [
+            "staff were extremely helpful"
+        ],
+        "gold": [
+            "staff were extremely helpful and very friendly especially our concierge at check in sunday afternoon"
+        ]
+    },
+    "302": {
+        "pred": [
+            "room was very old"
+        ],
+        "gold": [
+            "room was very old and we couldn ' t sleep well"
+        ]
+    },
+    "303": {
+        "pred": [
+            "hotel was very prepared",
+            "outstanding high level of service"
+        ],
+        "gold": [
+            "very prepared to ensure the safety of their guests",
+            "outstanding high level of service"
+        ]
+    },
+    "304": {
+        "pred": [
+            "great service",
+            "fan so bonus"
+        ],
+        "gold": [
+            "great service"
+        ]
+    },
+    "305": {
+        "pred": [
+            "wonderful stay"
+        ],
+        "gold": [
+            "have a wonderful stay at your hotel"
+        ]
+    },
+    "306": {
+        "pred": [
+            "clean room"
+        ],
+        "gold": [
+            "clean room"
+        ]
+    },
+    "307": {
+        "pred": [
+            "restaurant was clean & tidy",
+            "very friendly and helpful"
+        ],
+        "gold": [
+            "restaurant was clean & tidy",
+            "staff was very friendly and helpful",
+            "breakfast was so good"
+        ]
+    },
+    "308": {
+        "pred": [],
+        "gold": [
+            "hotel is a five stars"
+        ]
+    },
+    "309": {
+        "pred": [
+            "nice when we arrived to hotel"
+        ],
+        "gold": [
+            "guest relations manager and staff were very nice"
+        ]
+    },
+    "310": {
+        "pred": [
+            "rooms the good"
+        ],
+        "gold": [
+            "room not working",
+            "rooms the good things"
+        ]
+    },
+    "311": {
+        "pred": [
+            "even with covid-19 restrictions my stay was comfortable"
+        ],
+        "gold": [
+            "my stay was comfortable and enjoyable"
+        ]
+    },
+    "312": {
+        "pred": [],
+        "gold": [
+            "really looking forward to a nice hotel"
+        ]
+    },
+    "313": {
+        "pred": [
+            "they really give the guest \u201da sense of place"
+        ],
+        "gold": [
+            "feeling like home"
+        ]
+    },
+    "314": {
+        "pred": [
+            "excellent services",
+            "very clean"
+        ],
+        "gold": [
+            "the hotel is very clean",
+            "excellent services"
+        ]
+    },
+    "315": {
+        "pred": [
+            "comfortable touch",
+            "hotel design gives you a fresh and clean"
+        ],
+        "gold": [
+            "hotel design gives you a fresh and clean image with a very comfortable touch"
+        ]
+    },
+    "316": {
+        "pred": [
+            "beautiful harbour view",
+            "my room"
+        ],
+        "gold": [
+            "beautiful harbour view"
+        ]
+    },
+    "317": {
+        "pred": [
+            "good manners",
+            "some polite"
+        ],
+        "gold": [
+            "good manners and some politeness"
+        ]
+    },
+    "318": {
+        "pred": [
+            "the staff"
+        ],
+        "gold": [
+            "five or even six stars for the staff"
+        ]
+    },
+    "319": {
+        "pred": [
+            "bed very uncomfortable"
+        ],
+        "gold": [
+            "bed very uncomfortable"
+        ]
+    },
+    "320": {
+        "pred": [
+            "food and drink"
+        ],
+        "gold": [
+            "cafe is more affordable"
+        ]
+    },
+    "321": {
+        "pred": [],
+        "gold": [
+            "we did enjoy food and drinks there as well"
+        ]
+    },
+    "322": {
+        "pred": [
+            "will definitely be back"
+        ],
+        "gold": [
+            "will definitely be back again soon"
+        ]
+    },
+    "323": {
+        "pred": [
+            "view was amazing"
+        ],
+        "gold": [
+            "harbour view was amazing",
+            "service at manor club was excellent"
+        ]
+    },
+    "324": {
+        "pred": [
+            "staff are top notch"
+        ],
+        "gold": [
+            "staff are top notch"
+        ]
+    },
+    "325": {
+        "pred": [
+            "staff were friendly"
+        ],
+        "gold": [
+            "staff were friendly and professional across the board",
+            "excellent vegetable soup",
+            "very good chicken"
+        ]
+    },
+    "326": {
+        "pred": [
+            "pool was closed"
+        ],
+        "gold": [
+            "pool was closed"
+        ]
+    },
+    "327": {
+        "pred": [
+            "hotel is big",
+            "stars as for comfort"
+        ],
+        "gold": [
+            "but has a level of 2-3 stars as for comfort"
+        ]
+    },
+    "328": {
+        "pred": [],
+        "gold": [
+            "room or the hotel and the room wasn ' t cleaned"
+        ]
+    },
+    "329": {
+        "pred": [
+            "everything about that place was amazing"
+        ],
+        "gold": [
+            "that place was amazing"
+        ]
+    },
+    "330": {
+        "pred": [
+            "hotel is located"
+        ],
+        "gold": [
+            "luxurious street for shopping in the city"
+        ]
+    },
+    "331": {
+        "pred": [
+            "good restaurants",
+            "helpful staff",
+            "love the pools"
+        ],
+        "gold": [
+            "good restaurants",
+            "very helpful staff"
+        ]
+    },
+    "332": {
+        "pred": [
+            "cannot say enough"
+        ],
+        "gold": [
+            "cannot say enough good things about the place"
+        ]
+    },
+    "333": {
+        "pred": [
+            "appreciate for your kind arrangement",
+            "bed and a small cake"
+        ],
+        "gold": [
+            "highly appreciate for your kind arrangement",
+            "nice decoration on my bed"
+        ]
+    },
+    "334": {
+        "pred": [
+            "bed too hot"
+        ],
+        "gold": [
+            "bed too hot"
+        ]
+    },
+    "335": {
+        "pred": [
+            "will stay",
+            "well , my experience"
+        ],
+        "gold": [
+            "my experience was totally tremendous",
+            "will stay again"
+        ]
+    },
+    "336": {
+        "pred": [
+            "location to have access to more activities"
+        ],
+        "gold": [
+            "great location"
+        ]
+    },
+    "337": {
+        "pred": [
+            "quarantine stay in novotel",
+            "special thanks to atuzo for his services"
+        ],
+        "gold": [
+            "special thanks to atuzo for his services during my quarantine"
+        ]
+    },
+    "338": {
+        "pred": [
+            "staff were very helpful"
+        ],
+        "gold": [
+            "staff were very helpful and hospitable",
+            "front office greeted us and made sure to make our stay as pleasant as possible"
+        ]
+    },
+    "339": {
+        "pred": [
+            "great place",
+            "recommend it"
+        ],
+        "gold": [
+            "place , totally recommend it"
+        ]
+    },
+    "340": {
+        "pred": [
+            "good services",
+            "tourist options and information"
+        ],
+        "gold": [
+            "also good services"
+        ]
+    },
+    "341": {
+        "pred": [
+            "pool is closed"
+        ],
+        "gold": [
+            "pool is closed because of maintenance"
+        ]
+    },
+    "342": {
+        "pred": [
+            "no draft lager available"
+        ],
+        "gold": [
+            "there was no draft lager available"
+        ]
+    },
+    "343": {
+        "pred": [
+            "absolutely amazing",
+            "private pool"
+        ],
+        "gold": [
+            "private pool and it was absolutely amazing"
+        ]
+    },
+    "344": {
+        "pred": [
+            "water activities"
+        ],
+        "gold": [
+            "water activities are the best"
+        ]
+    },
+    "345": {
+        "pred": [
+            "most of facilities",
+            "level 8th , gym",
+            "pool , sauna , steam and spa"
+        ],
+        "gold": [
+            "most of facilities locate on level 8th , gym , pool , sauna , steam and spa"
+        ]
+    },
+    "346": {
+        "pred": [
+            "worst hotel"
+        ],
+        "gold": [
+            "worst hotel experience"
+        ]
+    },
+    "347": {
+        "pred": [
+            "breakfast had good variety"
+        ],
+        "gold": [
+            "breakfast had good variety"
+        ]
+    },
+    "348": {
+        "pred": [],
+        "gold": [
+            "proffesional service",
+            "good price"
+        ]
+    },
+    "349": {
+        "pred": [
+            "will definitely stay again"
+        ],
+        "gold": [
+            "will definitely stay again"
+        ]
+    },
+    "351": {
+        "pred": [],
+        "gold": [
+            "roof terrace and sauna to be available"
+        ]
+    },
+    "352": {
+        "pred": [
+            "wifi wasn\u2019t working , good"
+        ],
+        "gold": [
+            "well trained staff",
+            "great location very safe for kids",
+            "marvelous beach",
+            "good breakfast"
+        ]
+    },
+    "353": {
+        "pred": [
+            "spacious and clean"
+        ],
+        "gold": [
+            "spacious and clean"
+        ]
+    },
+    "354": {
+        "pred": [],
+        "gold": [
+            "dinner was good",
+            "wrong order"
+        ]
+    },
+    "355": {
+        "pred": [
+            "breakfast team"
+        ],
+        "gold": [
+            "very happy from the staff specially thw vibe breakfast team"
+        ]
+    },
+    "356": {
+        "pred": [
+            "very nice"
+        ],
+        "gold": [
+            "very nice"
+        ]
+    },
+    "357": {
+        "pred": [
+            "reception till entertainment",
+            "thanks to all the team"
+        ],
+        "gold": [
+            "thanks to all the team from reception",
+            "f&b"
+        ]
+    },
+    "358": {
+        "pred": [
+            "very friendly staff",
+            "would keep my daughter company"
+        ],
+        "gold": [
+            "very friendly staff"
+        ]
+    },
+    "359": {
+        "pred": [],
+        "gold": [
+            "mtr right nearby so transport is easy"
+        ]
+    },
+    "360": {
+        "pred": [
+            "new building is good"
+        ],
+        "gold": [
+            "new building is good",
+            "night activities is amazing",
+            "staff so friendly",
+            "aqua park is good"
+        ]
+    },
+    "361": {
+        "pred": [],
+        "gold": [
+            "every thing"
+        ]
+    },
+    "362": {
+        "pred": [
+            "room was great",
+            "comfortable & clean"
+        ],
+        "gold": [
+            "room was great , comfortable & clean"
+        ]
+    },
+    "363": {
+        "pred": [
+            "location is great",
+            "dle for bars etc"
+        ],
+        "gold": [
+            "location is great",
+            "car park opposite"
+        ]
+    },
+    "364": {
+        "pred": [
+            "service was nice and professional"
+        ],
+        "gold": [
+            "service was nice and professional"
+        ]
+    },
+    "365": {
+        "pred": [
+            "nice hotel",
+            "convenient location",
+            "very comfy beds"
+        ],
+        "gold": [
+            "nice hotel",
+            "clean",
+            "very comfy beds",
+            "convenient location",
+            "all you could wish when you tired"
+        ]
+    },
+    "366": {
+        "pred": [
+            "excellent supportive",
+            "room was very good"
+        ],
+        "gold": [
+            "room was very good and excellent supportive"
+        ]
+    },
+    "367": {
+        "pred": [
+            "looking forward my holiday"
+        ],
+        "gold": [
+            "really looking forward my holiday",
+            "the warm welcome from your team"
+        ]
+    },
+    "368": {
+        "pred": [
+            "great service"
+        ],
+        "gold": [
+            "good food",
+            "good service",
+            "great service as well"
+        ]
+    },
+    "369": {
+        "pred": [
+            "would stay here again"
+        ],
+        "gold": [
+            "would stay here again"
+        ]
+    },
+    "370": {
+        "pred": [
+            "\u2764\ufe0f thanks for everything"
+        ],
+        "gold": [
+            "thanks for everything"
+        ]
+    },
+    "371": {
+        "pred": [
+            "food and drinks were perfect"
+        ],
+        "gold": [
+            "food and drinks were perfect"
+        ]
+    },
+    "372": {
+        "pred": [
+            "basic hotel",
+            "good location"
+        ],
+        "gold": [
+            "basic hotel",
+            "good location"
+        ]
+    },
+    "373": {
+        "pred": [],
+        "gold": [
+            "guy at the concierge to nes at dinner"
+        ]
+    },
+    "374": {
+        "pred": [],
+        "gold": [
+            "special shout out to tom lau ( guest relations ) who handled all my requests well and was able to help me grab a reservation at the legacy house"
+        ]
+    },
+    "375": {
+        "pred": [
+            "regular get a way"
+        ],
+        "gold": [
+            "becker ' s chalet is our regular get a way , when ever we can"
+        ]
+    },
+    "376": {
+        "pred": [
+            "bad room"
+        ],
+        "gold": [
+            "it was replaced in an hour"
+        ]
+    },
+    "377": {
+        "pred": [
+            "extremely friendly"
+        ],
+        "gold": [
+            "reham in the reception she was extremely friendly supportive and professional"
+        ]
+    },
+    "379": {
+        "pred": [
+            "housekeeping were wearing protective"
+        ],
+        "gold": [
+            "rooms were separated",
+            "housekeeping were wearing protective gears"
+        ]
+    },
+    "380": {
+        "pred": [
+            "room service",
+            "buffet was closed"
+        ],
+        "gold": [
+            "the buffet was closed for breakfast due to covid but room service breakfast was beautifully presented and tasty"
+        ]
+    },
+    "381": {
+        "pred": [],
+        "gold": [
+            "special thanks for ceren and y\u0131lmaz in sabrosa restaurant"
+        ]
+    },
+    "382": {
+        "pred": [
+            "funny smell"
+        ],
+        "gold": [
+            "funny smell"
+        ]
+    },
+    "383": {
+        "pred": [
+            "improvement for breakfast"
+        ],
+        "gold": [
+            "perhaps an improvement for breakfast"
+        ]
+    },
+    "384": {
+        "pred": [
+            "great harbour",
+            "complimentary upgrade"
+        ],
+        "gold": [
+            "comfortable room as always"
+        ]
+    },
+    "385": {
+        "pred": [
+            "morning buffet dod",
+            "wide range of different food"
+        ],
+        "gold": [
+            "not have a wide range of different food"
+        ]
+    },
+    "386": {
+        "pred": [
+            "location is excellent"
+        ],
+        "gold": [
+            "location is excellent"
+        ]
+    },
+    "387": {
+        "pred": [
+            "hannah and ciara went above and beyond"
+        ],
+        "gold": [
+            "hannah and ciara went above and beyond by printing"
+        ]
+    },
+    "388": {
+        "pred": [
+            "no option"
+        ],
+        "gold": [
+            "disappointed by breakfast"
+        ]
+    },
+    "389": {
+        "pred": [
+            "staff amazing"
+        ],
+        "gold": [
+            "staff amazing"
+        ]
+    },
+    "390": {
+        "pred": [
+            "staff to bar"
+        ],
+        "gold": [
+            "staff couldn ' t do enough for us",
+            "from checkin staff to bar tenders"
+        ]
+    },
+    "391": {
+        "pred": [
+            "great view",
+            "large and lux",
+            "rest of the stay"
+        ],
+        "gold": [
+            "rest of the stay was great , large",
+            "great view",
+            "fantastic gym"
+        ]
+    },
+    "392": {
+        "pred": [
+            "friendly , helpful",
+            "clean & affordable"
+        ],
+        "gold": [
+            "friendly , helpful",
+            "clean",
+            "affordable"
+        ]
+    },
+    "393": {
+        "pred": [
+            "no buffet"
+        ],
+        "gold": [
+            "there was no buffet"
+        ]
+    },
+    "394": {
+        "pred": [
+            "good location"
+        ],
+        "gold": [
+            "good location"
+        ]
+    },
+    "395": {
+        "pred": [],
+        "gold": [
+            "convenience of the hotel suited us perfectly"
+        ]
+    },
+    "396": {
+        "pred": [
+            "menu selections",
+            "breakfast is good"
+        ],
+        "gold": [
+            "breakfast is good variety of menu selections"
+        ]
+    },
+    "397": {
+        "pred": [
+            "amazing experience"
+        ],
+        "gold": [
+            "amazing experience in it with pancakes for breakfast",
+            "dinner was out of this world"
+        ]
+    },
+    "398": {
+        "pred": [
+            "our experience"
+        ],
+        "gold": [
+            "we enjoyed our experience"
+        ]
+    },
+    "399": {
+        "pred": [
+            "staff that make the hotel"
+        ],
+        "gold": [
+            "but it is the staff that make the hotel what it is"
+        ]
+    },
+    "400": {
+        "pred": [
+            "amazing stay"
+        ],
+        "gold": [
+            "had an amazing stay at the gibson hotel"
+        ]
+    },
+    "401": {
+        "pred": [
+            "grounds are lovely"
+        ],
+        "gold": [
+            "grounds are lovely"
+        ]
+    },
+    "402": {
+        "pred": [
+            "it was fine"
+        ],
+        "gold": [
+            "it was fine"
+        ]
+    },
+    "403": {
+        "pred": [
+            "great value given in the current climate"
+        ],
+        "gold": [
+            "also great value"
+        ]
+    },
+    "404": {
+        "pred": [
+            "will be back soon"
+        ],
+        "gold": [
+            "will be back soon"
+        ]
+    },
+    "405": {
+        "pred": [
+            "very helpful",
+            "management and staff",
+            "without exception are excellent"
+        ],
+        "gold": [
+            "the management and staff without exception are excellent and very helpful in every aspect"
+        ]
+    },
+    "406": {
+        "pred": [],
+        "gold": [
+            "perfect dinner in the turkish restaurant"
+        ]
+    },
+    "407": {
+        "pred": [
+            "staff made us feel so welcome"
+        ],
+        "gold": [
+            "staff made us feel so welcome"
+        ]
+    },
+    "408": {
+        "pred": [
+            "rooms of the same prices",
+            "spacious as compared to other business hotels"
+        ],
+        "gold": [
+            "rooms here are also very spacious"
+        ]
+    },
+    "409": {
+        "pred": [
+            "dinner on the restaurant on 66th floor was not good"
+        ],
+        "gold": [
+            "dinner on the restaurant on 66th floor was not good",
+            "the staff and supervisor were very nice"
+        ]
+    },
+    "410": {
+        "pred": [
+            "recommended precautions regarding covid1-19 and social distance"
+        ],
+        "gold": [
+            "they have all recommended precautions regarding covid1-19 and social distance as per ministry of health"
+        ]
+    },
+    "411": {
+        "pred": [
+            "beds were so comfortable",
+            "wifi the best we have had at any hotel"
+        ],
+        "gold": [
+            "beds were so comfortable",
+            "wifi the best"
+        ]
+    },
+    "412": {
+        "pred": [],
+        "gold": [
+            "nice getaway"
+        ]
+    },
+    "413": {
+        "pred": [],
+        "gold": [
+            "greatest appreciation to phoebe",
+            "very nice room"
+        ]
+    },
+    "414": {
+        "pred": [
+            "great services",
+            "very much for the hospitality"
+        ],
+        "gold": [
+            "great services",
+            "thank you very much for the hospitality"
+        ]
+    },
+    "415": {
+        "pred": [
+            "soap were provided",
+            "no toiletries"
+        ],
+        "gold": [
+            "no toiletries",
+            "soap were provided"
+        ]
+    },
+    "416": {
+        "pred": [
+            "good place",
+            "your vacation or stay"
+        ],
+        "gold": [
+            "good place to stay"
+        ]
+    },
+    "417": {
+        "pred": [
+            "room is spacious"
+        ],
+        "gold": [
+            "room is spacious",
+            "bathroom is a bit dated and narrow"
+        ]
+    },
+    "418": {
+        "pred": [
+            "swimming with proper"
+        ],
+        "gold": [
+            "proper pool"
+        ]
+    },
+    "419": {
+        "pred": [],
+        "gold": [
+            "every thing it was super"
+        ]
+    },
+    "420": {
+        "pred": [
+            "food options"
+        ],
+        "gold": [
+            "really happy about the food options"
+        ]
+    },
+    "421": {
+        "pred": [
+            "food was super"
+        ],
+        "gold": [
+            "food was super"
+        ]
+    },
+    "422": {
+        "pred": [
+            "good water pressure",
+            "comfortable bed"
+        ],
+        "gold": [
+            "good water pressure",
+            "clean and comfortable bed"
+        ]
+    },
+    "423": {
+        "pred": [
+            "staff is very friendly and helpful"
+        ],
+        "gold": [
+            "staff is very friendly and helpful"
+        ]
+    },
+    "424": {
+        "pred": [
+            "new measures for distancing and having their facilities"
+        ],
+        "gold": [
+            "facilities shut"
+        ]
+    },
+    "425": {
+        "pred": [],
+        "gold": [
+            "the beach also"
+        ]
+    },
+    "426": {
+        "pred": [
+            "would recommend it to families"
+        ],
+        "gold": [
+            "would recommend it to families"
+        ]
+    },
+    "427": {
+        "pred": [
+            "very huge",
+            "super clean"
+        ],
+        "gold": [
+            "pools are very very huge"
+        ]
+    },
+    "428": {
+        "pred": [
+            "great view"
+        ],
+        "gold": [
+            "great view"
+        ]
+    },
+    "429": {
+        "pred": [
+            "room was decorated"
+        ],
+        "gold": [
+            "room was decorated with my son ' s"
+        ]
+    },
+    "430": {
+        "pred": [
+            "friendly service"
+        ],
+        "gold": [
+            "excellent and friendly service"
+        ]
+    },
+    "431": {
+        "pred": [
+            "own parking",
+            "no issue for the hotel"
+        ],
+        "gold": [
+            "parking is no issue",
+            "hotel has its own parking garage"
+        ]
+    },
+    "432": {
+        "pred": [
+            "good thing about this hotel"
+        ],
+        "gold": [
+            "very good thing about this hotel",
+            "the park next to"
+        ]
+    },
+    "433": {
+        "pred": [
+            "very nice rooms"
+        ],
+        "gold": [
+            "very nice rooms"
+        ]
+    },
+    "434": {
+        "pred": [
+            "front desk staff"
+        ],
+        "gold": [
+            "concerned me about it is the front desk staff"
+        ]
+    },
+    "435": {
+        "pred": [
+            "staff on duty ( aidan"
+        ],
+        "gold": [
+            "new safety procedures"
+        ]
+    },
+    "436": {
+        "pred": [
+            "room was ready"
+        ],
+        "gold": [
+            "we ended going back at 1 30 and the room was ready but we didn\u2019t receive any phone call ?"
+        ]
+    },
+    "437": {
+        "pred": [
+            "couldn\u2019t have done more for us"
+        ],
+        "gold": [
+            "patryk at hotel reception couldn\u2019t have done more for us"
+        ]
+    },
+    "438": {
+        "pred": [
+            "beautiful modern lobby"
+        ],
+        "gold": [
+            "beautiful modern lobby",
+            "stunning pool"
+        ]
+    },
+    "439": {
+        "pred": [
+            "would say the dining experience"
+        ],
+        "gold": [
+            "again enjoyed our stay",
+            "dining experience was sadly not up to standard"
+        ]
+    },
+    "440": {
+        "pred": [
+            "will definitely return"
+        ],
+        "gold": [
+            "will definitely return"
+        ]
+    },
+    "441": {
+        "pred": [
+            "nice time there",
+            "special thanks to chef"
+        ],
+        "gold": [
+            "we had nice time there",
+            "special thanks to chef"
+        ]
+    },
+    "442": {
+        "pred": [],
+        "gold": [
+            "second morning staff seemed a little more relaxed"
+        ]
+    },
+    "443": {
+        "pred": [
+            "great breakfast staff"
+        ],
+        "gold": [
+            "great breakfast staff"
+        ]
+    },
+    "444": {
+        "pred": [],
+        "gold": [
+            "hostess was super friendly"
+        ]
+    },
+    "445": {
+        "pred": [
+            "location was excellent",
+            "shops and restaurants",
+            "close to the subway"
+        ],
+        "gold": [
+            "location was excellent",
+            "close to the subway station , shops and restaurants"
+        ]
+    },
+    "446": {
+        "pred": [
+            "great staff"
+        ],
+        "gold": [
+            "great staff"
+        ]
+    },
+    "447": {
+        "pred": [
+            "quar"
+        ],
+        "gold": [
+            "i enjoyed every minute of my stay in this hotel during quarrantine"
+        ]
+    },
+    "448": {
+        "pred": [
+            "cleanliness",
+            "behavior is the best part of the hotel"
+        ],
+        "gold": [
+            "cleanliness , service and staff behavior is the best part of the hotel"
+        ]
+    },
+    "449": {
+        "pred": [
+            "kozy place"
+        ],
+        "gold": [
+            "kozy place"
+        ]
+    },
+    "450": {
+        "pred": [
+            "reception very friendly staff"
+        ],
+        "gold": [
+            "reception very friendly staff"
+        ]
+    },
+    "451": {
+        "pred": [
+            "bathroom was large",
+            "powerful shower"
+        ],
+        "gold": [
+            "bathroom was large and spotless also",
+            "big bath",
+            "powerful shower"
+        ]
+    },
+    "452": {
+        "pred": [
+            "location was great"
+        ],
+        "gold": [
+            "location was great"
+        ]
+    },
+    "453": {
+        "pred": [
+            "location was good"
+        ],
+        "gold": [
+            "location was good",
+            "lobby is cozy and big"
+        ]
+    },
+    "454": {
+        "pred": [
+            "highly recommend using this place",
+            "your base for exploring the area"
+        ],
+        "gold": [
+            "base for exploring the area"
+        ]
+    },
+    "455": {
+        "pred": [
+            "great play"
+        ],
+        "gold": [
+            "great play areas for the kids"
+        ]
+    },
+    "456": {
+        "pred": [
+            "free parking"
+        ],
+        "gold": [
+            "free parking"
+        ]
+    },
+    "457": {
+        "pred": [
+            "food was delicious",
+            "made our holiday"
+        ],
+        "gold": [
+            "food was delicious",
+            "very nice snacks",
+            "carte restaurant jamila",
+            "very nice and high quality meals",
+            "staff made our holiday really special"
+        ]
+    },
+    "458": {
+        "pred": [
+            "lovely location",
+            "food is good"
+        ],
+        "gold": [
+            "good friendly team",
+            "food is good",
+            "lovely location"
+        ]
+    },
+    "459": {
+        "pred": [
+            "clean place",
+            "proximity to the beach",
+            "good size of bedroom"
+        ],
+        "gold": [
+            "good size of bedroom",
+            "proximity to the beach"
+        ]
+    },
+    "460": {
+        "pred": [],
+        "gold": [
+            "i reported to mr hi\u1ebfu at the front counter and he helped to find it for me very quickly"
+        ]
+    },
+    "461": {
+        "pred": [
+            "clean , staff",
+            "very friendly"
+        ],
+        "gold": [
+            "clean",
+            "staff were very friendly"
+        ]
+    },
+    "462": {
+        "pred": [
+            "service in restaurants"
+        ],
+        "gold": [
+            "excellent speedy professional service in restaurants"
+        ]
+    },
+    "463": {
+        "pred": [
+            "lovely breakfast",
+            "far exceeding a vegans expectations"
+        ],
+        "gold": [
+            "lovely breakfast"
+        ]
+    },
+    "464": {
+        "pred": [
+            "clean and beach"
+        ],
+        "gold": [
+            "clean"
+        ]
+    },
+    "465": {
+        "pred": [
+            "improve to match 5 star standard"
+        ],
+        "gold": [
+            "receptionists and customer service need to improve"
+        ]
+    },
+    "466": {
+        "pred": [
+            "our experience"
+        ],
+        "gold": [
+            "our experience here was awesome"
+        ]
+    },
+    "467": {
+        "pred": [
+            "great service",
+            "enjoying activities"
+        ],
+        "gold": [
+            "great service",
+            "nice place",
+            "clean pool enjoying activities and kids play aria delicious food"
+        ]
+    },
+    "468": {
+        "pred": [
+            "rooms are clean",
+            "location is 30 mins away from airport"
+        ],
+        "gold": [
+            "rooms are clean",
+            "30 mins away from airport",
+            "nearby groceries and restaurants"
+        ]
+    },
+    "469": {
+        "pred": [
+            "room was spacious"
+        ],
+        "gold": [
+            "room was spacious",
+            "spa bath was great",
+            "shower head leaked",
+            "bath it was annoying"
+        ]
+    },
+    "470": {
+        "pred": [
+            "limited to soy too"
+        ],
+        "gold": [
+            "milk option was limited"
+        ]
+    },
+    "471": {
+        "pred": [
+            "waiters and everyone working too hard"
+        ],
+        "gold": [
+            "starting from the reception to the waiters and everyone working too hard to make us comfortable and safe"
+        ]
+    },
+    "472": {
+        "pred": [
+            "ample parking"
+        ],
+        "gold": [
+            "ample parking"
+        ]
+    },
+    "473": {
+        "pred": [
+            "beautiful room",
+            "clean and nice"
+        ],
+        "gold": [
+            "room which was clean and nice"
+        ]
+    },
+    "474": {
+        "pred": [
+            "better service"
+        ],
+        "gold": [
+            "much better service"
+        ]
+    },
+    "475": {
+        "pred": [
+            "dirty rooms not sure it is properly"
+        ],
+        "gold": [
+            "dirty rooms",
+            "dirty smell"
+        ]
+    },
+    "476": {
+        "pred": [],
+        "gold": [
+            "very disappointed with breakfast"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+step: 20, loss: 4.5643, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+threshold: 7.5, step: 20, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 128, loss: 4.5643, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 144, loss: 4.5645, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 160, loss: 4.5643, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 176, loss: 4.5640, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 192, loss: 4.5647, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 208, loss: 4.5644, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 224, loss: 4.5644, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 240, loss: 4.5643, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+threshold: 7.5, step: 255, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 264, loss: 2.8906, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 297, loss: 2.9072, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 330, loss: 2.9489, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 363, loss: 2.9712, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 396, loss: 2.8429, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 429, loss: 2.9089, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 462, loss: 2.8833, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 495, loss: 2.8808, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+threshold: 7.5, step: 507, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 128, loss: 2.8998, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 128, loss: 3.7780, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 144, loss: 3.7375, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 160, loss: 3.6599, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 176, loss: 3.7156, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 192, loss: 3.6626, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 208, loss: 3.6486, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 224, loss: 3.7078, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 240, loss: 3.7030, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+threshold: 7.5, step: 255, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 661.0)
+ 
+step: 128, loss: 1.0063, P: 0.3926, R: 0.4675, F1: 0.4268 (common: 309.0, retrieved: 787.0, relevant: 661.0)
+ 
+step: 128, loss: 1.0063, P: 0.3926, R: 0.4675, F1: 0.4268 (common: 309.0, retrieved: 787.0, relevant: 661.0)
+ 
+step: 128, loss: 1.0063, P: 0.3926, R: 0.4675, F1: 0.4268 (common: 309.0, retrieved: 787.0, relevant: 661.0)
+ 
+step: 144, loss: 0.9757, P: 0.3742, R: 0.4433, F1: 0.4058 (common: 293.0, retrieved: 783.0, relevant: 661.0)
+ 
+step: 160, loss: 0.9228, P: 0.3902, R: 0.4599, F1: 0.4222 (common: 304.0, retrieved: 779.0, relevant: 661.0)
+ 
+step: 176, loss: 0.7326, P: 0.3906, R: 0.4644, F1: 0.4243 (common: 307.0, retrieved: 786.0, relevant: 661.0)
+ 
+step: 192, loss: 0.7596, P: 0.4282, R: 0.4599, F1: 0.4435 (common: 304.0, retrieved: 710.0, relevant: 661.0)
+ 
+step: 208, loss: 0.7256, P: 0.4205, R: 0.4599, F1: 0.4393 (common: 304.0, retrieved: 723.0, relevant: 661.0)
+ 
+step: 224, loss: 0.7672, P: 0.4240, R: 0.4644, F1: 0.4433 (common: 307.0, retrieved: 724.0, relevant: 661.0)
+ 
+step: 240, loss: 0.7646, P: 0.4173, R: 0.4660, F1: 0.4403 (common: 308.0, retrieved: 738.0, relevant: 661.0)
+ 
+threshold: 7.5, step: 255, P: 0.4282, R: 0.4599, F1: 0.4435 (common: 304.0, retrieved: 710.0, relevant: 661.0)
+ 

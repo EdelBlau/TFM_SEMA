@@ -1,0 +1,5 @@
+We have cancelled our booking on return given the above lack lustre experience.####we=O have=O cancelled=O our=O booking=O on=O return=O given=O the=O above=O lack=T-POS lustre=T-POS experience=T-POS
+Nice common areas.####nice=T-POS common=T-POS areas=T-POS
+Restaurant was very crowded Room was old####restaurant=T-POS was=T-POS very=T-POS crowded=T-POS room=T-POS was=T-POS old=T-POS
+When we arrived in York we just felt this sudden, unknown pull to stay the night, quick check online and our room at safestay was booked! ####when=O we=O arrived=O in=O york=O we=O just=O felt=O this=O sudden=O ,=O unknown=O pull=O to=O stay=O the=O night=O ,=O quick=T-POS check=T-POS online=O and=O our=O room=O at=O safestay=O was=O booked=O !=O
+my stars so thanks to him for his hospitality.####my=O stars=O so=O thanks=T-POS to=T-POS him=T-POS for=T-POS his=T-POS hospitality=T-POS

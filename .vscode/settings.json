@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "../BERT_ABSA/venv/bin/python",
+    "python.terminal.activateEnvironment": false,
+    "python.formatting.provider": "black"
+}
